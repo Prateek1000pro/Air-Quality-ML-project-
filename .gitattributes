@@ -1,0 +1,2 @@
+Air_quality_bigdata_1GB.csv filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text
